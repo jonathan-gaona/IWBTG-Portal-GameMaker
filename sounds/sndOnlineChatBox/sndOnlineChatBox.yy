@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sndOnlineChatBox",
+  "audioGroupId":{
+    "name":"audiogroup_SFX",
+    "path":"audiogroups/audiogroup_SFX",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.483265,
+  "exportDir":"",
+  "name":"sndOnlineChatBox",
+  "parent":{
+    "name":"Online",
+    "path":"folders/Sounds/SFX/Online.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndOnlineChatBox.wav",
+  "volume":1.0,
+}

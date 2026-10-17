@@ -1,0 +1,20 @@
+# Carpetas temporales y compilación de GameMaker
+.sguid
+/.config/
+/options/main/inherited/
+/options/windows/runner/
+/export/
+/crashes/
+/logs/
+/sound_cache/
+/sprites_cache/
+/tileset_cache/
+/bin/
+/obj/
+
+# Archivos de caché
+*.yyz
+*.cache
+*.bak
+*.user
+*.config

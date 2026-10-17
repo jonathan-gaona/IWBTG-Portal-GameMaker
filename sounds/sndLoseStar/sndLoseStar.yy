@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sndLoseStar",
+  "audioGroupId":{
+    "name":"audiogroup_SFX",
+    "path":"audiogroups/audiogroup_SFX",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.615873,
+  "exportDir":"",
+  "name":"sndLoseStar",
+  "parent":{
+    "name":"Not Another Needle Game",
+    "path":"folders/Sounds/SFX/Packages/Not Another Needle Game.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndLoseStar.wav",
+  "volume":1.0,
+}
